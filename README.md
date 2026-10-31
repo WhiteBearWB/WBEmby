@@ -1,5 +1,6 @@
 # WBEmby
 适用于 Android TV 的第三方 Emby 客户端，针对遥控器操作与本地解码兼容性实现。
+
 <img width="400" alt="左图" src="https://github.com/user-attachments/assets/cc9598c8-3f2f-4f83-95ef-91adcbdc5a55" /> <img width="400" alt="右图" src="https://github.com/user-attachments/assets/9c4162a4-478f-4371-81d8-62c18eab63b9" />
 
 
