@@ -1,4 +1,7 @@
 # WBEmby
+<img width="1920" height="1080" alt="Screenshot_20261031-132304" src="https://github.com/user-attachments/assets/89a90797-9fe2-473c-ae93-032fa21fdbff" />
+![Uploading Screenshot_<img width="1920" height="1080" alt="Screenshot_20261031-132449" src="https://github.com/user-attachments/assets/f9628b63-ed22-4408-8477-82a1d34af11f" />
+20261031-132304.png…]()
 
 适用于 Android TV 的第三方 Emby 客户端，针对遥控器操作与本地解码兼容性实现。
 
