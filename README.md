@@ -11,7 +11,7 @@
 | 系统版本 | Android 8.0（API 26）及以上 |
 | ABI | armeabi-v7a |
 | 服务端 | Emby Server 4.x |
-| 网络 | 可访问自建 Emby 服务器；可选用 HTTP / SOCKS5 代理 |
+| 网络 | 可访问自建 Emby 服务器 |
 
 ## 安装
 
